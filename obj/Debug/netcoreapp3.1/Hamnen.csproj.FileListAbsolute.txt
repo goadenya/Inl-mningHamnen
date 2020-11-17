@@ -1,0 +1,13 @@
+C:\Users\deriba111\Documents\GitHub\Hamnen\bin\Debug\netcoreapp3.1\Hamnen.exe
+C:\Users\deriba111\Documents\GitHub\Hamnen\bin\Debug\netcoreapp3.1\Hamnen.deps.json
+C:\Users\deriba111\Documents\GitHub\Hamnen\bin\Debug\netcoreapp3.1\Hamnen.runtimeconfig.json
+C:\Users\deriba111\Documents\GitHub\Hamnen\bin\Debug\netcoreapp3.1\Hamnen.runtimeconfig.dev.json
+C:\Users\deriba111\Documents\GitHub\Hamnen\bin\Debug\netcoreapp3.1\Hamnen.dll
+C:\Users\deriba111\Documents\GitHub\Hamnen\bin\Debug\netcoreapp3.1\Hamnen.pdb
+C:\Users\deriba111\Documents\GitHub\Hamnen\obj\Debug\netcoreapp3.1\Hamnen.csprojAssemblyReference.cache
+C:\Users\deriba111\Documents\GitHub\Hamnen\obj\Debug\netcoreapp3.1\Hamnen.AssemblyInfoInputs.cache
+C:\Users\deriba111\Documents\GitHub\Hamnen\obj\Debug\netcoreapp3.1\Hamnen.AssemblyInfo.cs
+C:\Users\deriba111\Documents\GitHub\Hamnen\obj\Debug\netcoreapp3.1\Hamnen.csproj.CoreCompileInputs.cache
+C:\Users\deriba111\Documents\GitHub\Hamnen\obj\Debug\netcoreapp3.1\Hamnen.dll
+C:\Users\deriba111\Documents\GitHub\Hamnen\obj\Debug\netcoreapp3.1\Hamnen.pdb
+C:\Users\deriba111\Documents\GitHub\Hamnen\obj\Debug\netcoreapp3.1\Hamnen.genruntimeconfig.cache
